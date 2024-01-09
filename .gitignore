@@ -1,8 +1,9 @@
 # .gitignore
 
-*.mkw
+*.mkv
 *.mp4
 *.avi
 *.pt
 *.pth
+imbs-mt/images/
 modules/

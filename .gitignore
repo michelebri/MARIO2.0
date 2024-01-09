@@ -1,0 +1,8 @@
+# .gitignore
+
+*.mkw
+*.mp4
+*.avi
+*.pt
+*.pth
+modules/
